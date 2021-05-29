@@ -1,0 +1,17 @@
+package com.alae.web;
+
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class CompayRestService {
+	
+	@Value("${xParam}")
+	private int xParam;
+	private int yParam;
+	private String me;
+	
+	
+	
+	
+}

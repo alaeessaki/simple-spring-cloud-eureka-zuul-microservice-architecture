@@ -1,0 +1,4 @@
+spring.application.name=eureka-service
+spring.cloud.config.uri=http://localhost:8888
+eureka.server.wait-time-in-ms-when-sync-empty: 0
+eureka.server.eviction-interval-timer-in-ms: 1000

@@ -1,0 +1,5 @@
+package com.alae.dao;
+
+public interface CompanyRepository {
+
+}

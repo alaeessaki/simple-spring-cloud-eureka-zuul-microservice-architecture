@@ -1,0 +1,9 @@
+package com.alae.dao;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.alae.entities.Movie;
+
+public interface MovieRepository extends JpaRepository<Movie, Long>{
+
+}
