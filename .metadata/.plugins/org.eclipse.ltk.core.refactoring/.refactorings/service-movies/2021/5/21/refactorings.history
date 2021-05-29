@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename resource &apos;service-movies/src/main/resources/application.properties&apos; to &apos;bootstrap.properties&apos;" description="Rename resource &apos;application.properties&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/application.properties" name="bootstrap.properties" stamp="1622300113197" updateReferences="true"/>
-</session>

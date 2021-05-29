@@ -1,5 +1,0 @@
-spring.application.name=company-service
-spring.cloud.config.uri=http://localhost:8888
-management.trace.http.enabled: true
-management.endpoints.web.exposure.include=*
-server.port=8081
