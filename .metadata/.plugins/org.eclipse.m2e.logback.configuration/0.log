@@ -5044,3 +5044,6 @@ org.eclipse.core.runtime.CoreException: Could not read maven project
 2021-05-29 15:59:46,634 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-05-29 15:59:46,634 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2021-05-29 15:59:46,634 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Youcode\Desktop\Projects\microservices\service-register\src\test\resources
+2021-05-29 16:14:21,909 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@3029bf3{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2021-05-29 16:14:21,914 [Stop Help Server] INFO  org.eclipse.jetty.server.session - node0 Stopped scavenging
+2021-05-29 16:14:21,947 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@616c7668{/help,null,UNAVAILABLE}
